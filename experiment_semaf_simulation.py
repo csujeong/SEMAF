@@ -10,7 +10,7 @@ from datetime import datetime
 # -----------------------------------------------------------------------------
 
 LLM_MODEL = "gpt-4o-mini"
-OPENAI_API_KEY = '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' 
+OPENAI_API_KEY = 'user-openai-key' 
 
 TEST_PROMPTS = [
     "Summarize global AI regulation trends and major issues over the past 3 years, and discuss Korea's response strategy.",
@@ -690,4 +690,5 @@ def run_complete_experiment():
     # print("="*70)
 
 if __name__ == "__main__":
+
     run_complete_experiment()
