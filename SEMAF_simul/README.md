@@ -1,6 +1,5 @@
 # SEMAF 실험 시뮬레이션 — 배포 가이드
-<img width="1191" height="982" alt="image" src="https://github.com/user-attachments/assets/4d2fba00-d2b0-4683-ad77-152041e7b67a" />
-
+<img width="1027" height="961" alt="image" src="https://github.com/user-attachments/assets/0b08ce34-5eab-4406-b2da-bf115616bc7b" />
 
 **자기진화형 다중 에이전트 프레임워크(SEMAF)**  
 
